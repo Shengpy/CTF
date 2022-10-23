@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\Project1\Project1\Source.cpp(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Admin\Desktop\Project1\Project1\Source.cpp(4,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  Project1.vcxproj -> C:\Users\Admin\Desktop\Project1\x64\Debug\Project1.exe
